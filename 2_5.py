@@ -1,3 +1,5 @@
+# Console Input
+
 '''name = input("What is your name? ")
 number = input("Enter a number: ")
 print("Hello" ,name)
