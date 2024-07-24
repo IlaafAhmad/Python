@@ -1,4 +1,4 @@
-entrypoint = "2_18.py"
+entrypoint = "2_19.py"
 modules = ["python-3.10"]
 
 [nix]
