@@ -62,4 +62,8 @@ while True:
     break
 
   numbers.add(num)
+
+print(x)
+print(y)
+print(z)
   

@@ -60,3 +60,4 @@ while True:
   counts[num] = counts.get(num, 0) + 1
 
 print(counts)
+print(num)
